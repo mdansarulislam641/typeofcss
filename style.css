@@ -1,0 +1,35 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+.extanal_css{
+    margin-top: 100px;
+}
+.extanal_css h2{
+    font-size:30px;
+    font-style:italic;
+    color:brown;
+    text-align: center;
+}
+.para p{
+    color:red;
+    font-size:20px;
+
+}
+.extanal_css .intru p{
+    color:rgb(57, 4, 247);
+    font-size: 25px;
+    text-transform: uppercase;
+}
+h6{
+    color:red;
+    font-size:50px;
+    text-align: center;
+}
+.clr{
+    clear:both;
+}
